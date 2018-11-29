@@ -1,2 +1,3 @@
 # Tensorboard
-Tensorflow tensorboard playground
+
+Simple codes for demonstrating how to use Tensorboard.
